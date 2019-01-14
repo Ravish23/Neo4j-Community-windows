@@ -1,0 +1,16 @@
+test-data
+test.xml
+*.db
+*.log
+*.zip
+*.properties
+*.iml
+.shell_history
+*.csv
+target
+.idea
+.DS_Store
+*.geoff
+.classpath
+.project
+.settings/
